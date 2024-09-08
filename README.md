@@ -1,2 +1,2 @@
 # Desafio_Target_Estagio
- Desafio do processo seletivo da Target Sistemas
+ Desafio do processo seletivo da Target Sistemas.
